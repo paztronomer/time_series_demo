@@ -1,0 +1,6 @@
+pandas
+pywt
+statsmodels
+vaex
+sklearn
+gatspy
