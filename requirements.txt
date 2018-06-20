@@ -1,6 +1,13 @@
+conda
+numpy
 pandas
-pywt
+os
+sys
+scipy
+matplotlib
+pprint
 statsmodels
 sklearn
 gatspy
+pywt
 --user --pre vaex
