@@ -1,6 +1,6 @@
 pandas
 pywt
 statsmodels
-vaex
 sklearn
 gatspy
+--user --pre vaex
