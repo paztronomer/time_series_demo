@@ -1,4 +1,4 @@
-conda
+conda-forge
 numpy
 pandas
 scipy
