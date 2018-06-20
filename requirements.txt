@@ -1,11 +1,8 @@
 conda
 numpy
 pandas
-os
-sys
 scipy
 matplotlib
-pprint
 statsmodels
 sklearn
 gatspy
