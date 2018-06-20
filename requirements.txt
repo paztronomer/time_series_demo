@@ -10,4 +10,4 @@ statsmodels
 sklearn
 gatspy
 pywt
---user --pre vaex
+vaex
